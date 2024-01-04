@@ -30,5 +30,8 @@ Mini-Projects in Java:
 
 Object Oriented Programming in Java:
 * methods
-* methodsVariableArguments
+    * Methods
+    * MethodsVariableArguments
+* classes
+* classesDemo (Calculator Demonstration)
 * re*
