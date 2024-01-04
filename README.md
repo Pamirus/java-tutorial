@@ -34,4 +34,6 @@ Object Oriented Programming in Java:
     * MethodsVariableArguments
 * class
 * classDemo (Calculator Operations)
+* classesWithAttributes
+* encapsulation
 * re*
