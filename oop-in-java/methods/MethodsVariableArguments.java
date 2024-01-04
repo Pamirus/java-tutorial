@@ -1,4 +1,4 @@
-public class methodsVariableArguments {
+public class MethodsVariableArguments {
     public static void main(String[] args) {
         int mySummation = mySum(1, 3, 5, 7, 9);
         System.out.println(mySummation);
