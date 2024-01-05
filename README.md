@@ -50,4 +50,10 @@ Object Oriented Programming in Java:
       Run-time polymorphism is overriding, which is made with the same-named base class method in the derived class. The overridden method has the same parameter list. However, it allows us to make different operations.
 * overriding
 * abstractClasses
+    * Abstract classes cannot be instantiated on their own.
+
+      Abstract classes may contain abstract methods. Subclasses that extend an abstract class must provide implementations for all the abstract methods or be declared as abstract classes themselves.
+
+      Abstract classes are often used to define a common interface or behavior that multiple subclasses share. They provide a way to partially implement a class and leave some methods for the subclasses to implement based on their specific needs.
+* abstractClassesDemo
 * re*
