@@ -56,4 +56,5 @@ Object Oriented Programming in Java:
 
       Abstract classes are often used to define a common interface or behavior that multiple subclasses share. They provide a way to partially implement a class and leave some methods for the subclasses to implement based on their specific needs.
 * abstractClassesDemo
+* interfaces
 * re*
