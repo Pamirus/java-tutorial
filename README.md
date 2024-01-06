@@ -33,11 +33,11 @@ I followed the program path [Java ile Programlamaya Giriş course](https://www.b
     2. [MethodsVariableArguments](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/methods/MethodsVariableArguments.java)
 2. [class](https://github.com/Pamirus/java-tutorial/tree/main/oop-in-java/class)
     * Classes define the blueprints for objects (instances). A class is a structure that contains properties (fields) and behaviors (methods).
-3. [classDemo]((https://github.com/Pamirus/java-tutorial/tree/main/oop-in-java/classDemo))
+3. [classDemo](https://github.com/Pamirus/java-tutorial/tree/main/oop-in-java/classDemo)
 4. [classesWithAttributes](https://github.com/Pamirus/java-tutorial/tree/main/oop-in-java/classesWithAttributes)
 5. [encapsulation](https://github.com/Pamirus/java-tutorial/tree/main/oop-in-java/encapsulation)
     * Encapsulation involves grouping the data and methods that manipulate the data within a single unit. Encapsulation restricts the access to certain components, enhancing security and maintainability. 
-6. [constructors]((https://github.com/Pamirus/java-tutorial/tree/main/oop-in-java/construction))
+6. [constructors](https://github.com/Pamirus/java-tutorial/tree/main/oop-in-java/construction)
     * Constructors are methods which are called when an object is created. The constructors are usually used to initialise the fields of a class or perform some initial operations.
 7. [methodOverloading](https://github.com/Pamirus/java-tutorial/tree/main/oop-in-java/methodOverloading)
 8. [inheritance](https://github.com/Pamirus/java-tutorial/tree/main/oop-in-java/inheritance)
