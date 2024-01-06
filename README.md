@@ -42,8 +42,8 @@ I followed the program path [Java ile Programlamaya Giriş course](https://www.b
 7. [methodOverloading](https://github.com/Pamirus/java-tutorial/tree/main/oop-in-java/methodOverloading)
 8. [inheritance](https://github.com/Pamirus/java-tutorial/tree/main/oop-in-java/inheritance)
     * The inheritance allows a class to inherit properties and behaviours from another class, promotes the reusability of code.
-9. [inheritanceDemo](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/methods/inheritanceDemo)
-10. [polymorphism](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/methods/polymorphism)
+9. [inheritanceDemo](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/inheritanceDemo)
+10. [polymorphism](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/polymorphism)
     * There are two types of polymorphism in OOP. Compile-time and run-time polymorphism. 
 
       Compile-time polymorphism is overloading, which is made with the same-named method, but has a different parameter list. Return type conversion cannot be done with the same parameter list since the signature of the methods will be the same due to the same parameter list.
@@ -51,19 +51,19 @@ I followed the program path [Java ile Programlamaya Giriş course](https://www.b
       The return type cannot be changed with the same parameter list by overloading. Because the signatures of the methods would be exactly the same with the same parameter list.
 
       Run-time polymorphism is overriding, which is made with the same-named base class method in the derived class. The overridden method has the same parameter list. However, it allows us to make different operations.
-11. [overriding](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/methods/overriding)
-12. [abstractClasses](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/methods/abstractClasses)
+11. [overriding](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/overriding)
+12. [abstractClasses](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/abstractClasses)
     * Abstract classes cannot be instantiated on their own.
 
       Abstract classes may contain abstract methods. Subclasses that extend an abstract class must provide implementations for all the abstract methods or be declared as abstract classes themselves.
 
       Abstract classes are often used to define a common interface or behavior that multiple subclasses share. They provide a way to partially implement a class and leave some methods for the subclasses to implement based on their specific needs.
-13. [abstractClassesDemo](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/methods/abstractClassesDemo)
-14. [interfaces](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/methods/interfaces)
+13. [abstractClassesDemo](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/abstractClassesDemo)
+14. [interfaces](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/interfaces)
     * Interfaces define a contract that a class must implement, specifying which methods should be included. Multiple implementation of the interfaces in one class is allowed.
-15. [polymorphismWithInterfaces](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/methods/polymorphismWithInterfaces)
-16. [interfaceDemo](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/methods/interfaceDemo)
-16. [composition](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/methods/composition)
+15. [polymorphismWithInterfaces](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/polymorphismWithInterfaces)
+16. [interfaceDemo](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/interfaceDemo)
+16. [composition](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/composition)
     * The static keyword is used to define class-level entities that are shared among all instances of the class. Static members can be called over the class directly, so the object is not necessary to call a static member. The static keyword is often used for the utility elements.
 
       The inner classes are used to organize code, enhance encapsulation, and logically group related classes together. However, the inner classes are not often used to prevent the violation of the single responsibility principle.
