@@ -69,7 +69,9 @@ I followed the program path [Java ile Programlamaya Giriş course](https://www.b
       The inner classes are used to organize code, enhance encapsulation, and logically group related classes together. However, the inner classes are not often used to prevent the violation of the single responsibility principle.
 
 **Packages**
-1. [packagesDemo](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/packages/packagesDemo)
-2. [packageCreation](https://github.com/Pamirus/java-tutorial/blob/main/oop-in-java/packages/packageCreation)
+
+Packages are used to organize and structure classes and interfaces into different namespaces. It helps avoid naming conflicts and provides a hierarchical structure to the code. Packages also aid in creating modular and reusable code.
+1. [packagesDemo](https://github.com/Pamirus/java-tutorial/blob/main/packages/packagesDemo)
+2. [packageCreation](https://github.com/Pamirus/java-tutorial/blob/main/packages/packageCreation)
 
 re*
