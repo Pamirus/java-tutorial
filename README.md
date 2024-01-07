@@ -91,4 +91,11 @@ Exception handling refers to the mechanism that allows you to handle runtime err
 3. [throwDemo](https://github.com/Pamirus/java-tutorial/blob/main/exceptionHandling/throwDemo)
 4. [customException](https://github.com/Pamirus/java-tutorial/blob/main/exceptionHandling/customException)
 
+**File Operations**
+
+File operations refer to performing various tasks related to handling files and directories using classes and methods provided by the Java I/O (Input/Output) API. These operations include tasks like reading from files, writing to files, creating directories, deleting files, checking file existence, and more.
+1. [workingWithFiles](https://github.com/Pamirus/java-tutorial/blob/main/fileOperations/workingWithFiles)
+2. [readFiles](https://github.com/Pamirus/java-tutorial/blob/main/fileOperations/readFiles)
+3. [writeFiles](https://github.com/Pamirus/java-tutorial/blob/main/fileOperations/writeFiles)
+
 re*
