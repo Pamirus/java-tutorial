@@ -82,4 +82,13 @@ Collections refer to frameworks or interfaces that are used to store and manipul
 3. [arrayListWithClasses](https://github.com/Pamirus/java-tutorial/blob/main/collections/arrayListWithClasses)
 4. [hashMap](https://github.com/Pamirus/java-tutorial/blob/main/collections/hashMap)
 
+
+**Exception Handling**
+
+Exception handling refers to the mechanism that allows you to handle runtime errors or exceptional conditions that may occur during the execution of a program.
+1. [exceptionHandling](https://github.com/Pamirus/java-tutorial/blob/main/exceptionHandling/exceptionHandling)
+2. [readFileDemo](https://github.com/Pamirus/java-tutorial/blob/main/exceptionHandling/readFileDemo)
+3. [throwDemo](https://github.com/Pamirus/java-tutorial/blob/main/exceptionHandling/throwDemo)
+4. [customException](https://github.com/Pamirus/java-tutorial/blob/main/exceptionHandling/customException)
+
 re*
