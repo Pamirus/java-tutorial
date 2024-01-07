@@ -74,4 +74,12 @@ Packages are used to organize and structure classes and interfaces into differen
 1. [packagesDemo](https://github.com/Pamirus/java-tutorial/blob/main/packages/packagesDemo)
 2. [packageCreation](https://github.com/Pamirus/java-tutorial/blob/main/packages/packageCreation)
 
+**Collections**
+
+Collections refer to frameworks or interfaces that are used to store and manipulate groups of objects. They provide a way to work with groups of objects as a single unit.
+1. [arrayList](https://github.com/Pamirus/java-tutorial/blob/main/collections/arrayList)
+2. [typesafeArrayList](https://github.com/Pamirus/java-tutorial/blob/main/collections/typesafeArrayList)
+3. [arrayListWithClasses](https://github.com/Pamirus/java-tutorial/blob/main/collections/arrayListWithClasses)
+4. [hashMap](https://github.com/Pamirus/java-tutorial/blob/main/collections/hashMap)
+
 re*
