@@ -98,4 +98,16 @@ File operations refer to performing various tasks related to handling files and 
 2. [readFiles](https://github.com/Pamirus/java-tutorial/blob/main/fileOperations/readFiles)
 3. [writeFiles](https://github.com/Pamirus/java-tutorial/blob/main/fileOperations/writeFiles)
 
+**Generics**
+
+Generics are used to create classes, interfaces, and methods that can work with any data type. They provide a way to make the code more flexible, reusable, and type-safe by allowing you to write classes and methods that can operate on a variety of data types without sacrificing type safety.
+1. [generics](https://github.com/Pamirus/java-tutorial/blob/main/generics/generics)
+2. [genericsDemo](https://github.com/Pamirus/java-tutorial/blob/main/generics/genericsDemo)
+3. [genericMethods](https://github.com/Pamirus/java-tutorial/blob/main/generics/genericMethods)
+
+**Threading**
+
+Threading refers to the concurrent execution of two or more parts of a program, allowing tasks to run in parallel. Threads are the smallest unit of execution within a process and enable programs to perform multiple tasks simultaneously.
+1. [threadingDemo](https://github.com/Pamirus/java-tutorial/blob/main/threading/threadingDemo)
+
 re*
