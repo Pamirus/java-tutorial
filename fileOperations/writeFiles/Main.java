@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        File file = new File("C:\\Users\\pamir\\Desktop\\Java\\java-tutorial\\fileOperations\\files\\students.txt");
+        File file = new File("C:\\Users\\pamir\\Desktop\\java-tutorial\\fileOperations\\files\\students.txt");
 
         // createFile(file);
         // getFileInfo(file);
