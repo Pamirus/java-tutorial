@@ -112,7 +112,7 @@ Threading refers to the concurrent execution of two or more parts of a program, 
 
 **Database Programming with JDBC**
 
-The Java Database Connectivity (JDBC) concept is important aspect of Java programming to work with databases in Java applications.
+The Java Database Connectivity (JDBC) concept is an important aspect of Java programming to work with databases in Java applications.
 
 *NOTE: The database connection with JDBC needs a JDBC driver. Thus, the driver was added to the "libs/" folder. The compile command may be used as follows.*
 
