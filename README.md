@@ -110,4 +110,16 @@ Generics are used to create classes, interfaces, and methods that can work with 
 Threading refers to the concurrent execution of two or more parts of a program, allowing tasks to run in parallel. Threads are the smallest unit of execution within a process and enable programs to perform multiple tasks simultaneously.
 1. [threadingDemo](https://github.com/Pamirus/java-tutorial/blob/main/threading/threadingDemo)
 
+**Database Programming with JDBC**
+
+The Java Database Connectivity (JDBC) concept is important aspect of Java programming to work with databases in Java applications.
+
+*NOTE: The database connection with JDBC needs a JDBC driver. Thus, the driver was added to the "libs/" folder. The compile command may be used as follows.*
+
+```cmd /c 'javac Main.java && java -cp ".;../lib/mysql-connector-j-8.0.33.jar" Main'```
+1. [selectDemo](https://github.com/Pamirus/java-tutorial/blob/main/selectDemo)
+2. [insertDemo](https://github.com/Pamirus/java-tutorial/blob/main/insertDemo)
+3. [updateDemo](https://github.com/Pamirus/java-tutorial/blob/main/updateDemo)
+4. [deleteDemo](https://github.com/Pamirus/java-tutorial/blob/main/deleteDemo)
+
 re*
