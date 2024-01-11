@@ -144,4 +144,22 @@ The Java Database Connectivity (JDBC) concept is an important aspect of Java pro
     ![Remove Student](programmingGUIWithSwing/jListDemo/screenshots/remove-student.png)
     
     ![Remove Selected](programmingGUIWithSwing/jListDemo/screenshots/remove-selected.png)
-3. re*
+3. [sqlDemo](https://github.com/Pamirus/java-tutorial/blob/main/programmingGUIWithSwing/sqlDemo)
+
+    Screenshots:
+
+    ![Initial State](programmingGUIWithSwing/sqlDemo/screenshots/initial-state.png)
+4. [tableRowSorted](https://github.com/Pamirus/java-tutorial/blob/main/programmingGUIWithSwing/tableRowSorted)
+
+    Screenshots:
+
+    ![Initial State](programmingGUIWithSwing/tableRowSorted/screenshots/initial-state.png)
+
+    ![Search State](programmingGUIWithSwing/tableRowSorted/screenshots/search-state.png)
+5. [addData](https://github.com/Pamirus/java-tutorial/blob/main/programmingGUIWithSwing/addData)
+
+    Screenshots:
+
+    ![Initial State](programmingGUIWithSwing/addData/screenshots/initial-state.png)
+
+    ![Add New Data](programmingGUIWithSwing/addData/screenshots/add-new-data.png)
